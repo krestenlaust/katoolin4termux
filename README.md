@@ -1,19 +1,21 @@
 ![katoolin](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
-# katoolin
-Automatically install all Kali linux tools
+# katoolin4termux
+Automatically install all Kali linux tools in termux
+
+Forked from: https://github.com/LionSec/katoolin
 
 # Features
-- Add Kali linux repositories
-- Remove kali linux repositories
-- Install Kali linux tools
+- Add Kali linux repositories to termux
+- Remove kali linux repositories from termux
+- Install Kali linux tools in termux
 
 # Requirements
-- Python 2.7
-- An operating system (tested on Ubuntu)
+- Python 2.7 - install with `pkg install python2`.
+- Git - Install with `pkg install git`.
+- 
 
 # Installation
-- sudo su
-- git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
+- git clone https://github.com/kres0345/katoolin4termux.git katoolin/ && cp katoolin/katoolin.py /usr/bin/katoolin
 - chmod +x /usr/bin/katoolin
 - sudo katoolin 
 
