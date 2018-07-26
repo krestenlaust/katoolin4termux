@@ -35,4 +35,4 @@ LionSec has not agreed any partnerships this is just a renamed fork.
 https://www.youtube.com/watch?v=8VxCWVoZEEE
 
 ## I have some questions!
-Please visit https://github.com/LionSec/katoolin/issues
+Please visit https://github.com/kres0345/katoolin4termux/issues
