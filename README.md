@@ -16,14 +16,15 @@ Forked from: https://github.com/LionSec/katoolin
 ## Installation
 - `git clone https://github.com/kres0345/katoolin4termux.git katoolin/ && cp katoolin/katoolin.py /usr/bin/katoolin`
 - `chmod +x /usr/bin/katoolin`
-- `sudo katoolin` 
+- `sudo katoolin`
+
+To install metasploit goto this repo by `Verluchie`: https://github.com/verluchie/termux-metasploit
 
 ## Usage
 - Typing the number of a tool will install it
 - Typing `0` will install all Kali Linux tools in a category or all, and definitly start alot of bugs.
 - `back` : Go to the previous menu.
 - `gohome` : Go to the main menu.
-- To install metasploit goto this repo by `Verluchie`: https://github.com/verluchie/termux-metasploit
 
 ## Warning
 If you have tried to add kali repo to termux by adding to sources.list, then please remove it before installation.
