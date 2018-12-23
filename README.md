@@ -1,4 +1,9 @@
 ![katoolin](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
+
+# Issues
+If you experience any issues then please open an issue ticket :)
+Further development will be a little tough since Termux recently removed support for my only rooted Android(Samsung Galaxy S3 Neo).
+
 # katoolin4termux
 Automatically install all Kali linux tools in termux
 
@@ -18,6 +23,7 @@ Forked from: https://github.com/LionSec/katoolin
 - `chmod +x /usr/bin/katoolin`
 - `sudo katoolin`
 
+#### Metasploit
 To install metasploit goto this repo by `Verluchie`: https://github.com/verluchie/termux-metasploit
 
 ## Usage
@@ -27,13 +33,10 @@ To install metasploit goto this repo by `Verluchie`: https://github.com/verluchi
 - `gohome` : Go to the main menu.
 
 ## Warning
-If you have tried to add kali repo to termux by adding to sources.list, then please remove it before installation.
+If you have tried to add kali repo to termux by adding to sources.list, then remove it manually before installation.
 
 ## Note
 LionSec has not agreed any partnerships this is just a renamed fork.
 
 ## Video by LionSec
 https://www.youtube.com/watch?v=8VxCWVoZEEE
-
-## I have some questions!
-Please visit https://github.com/kres0345/katoolin4termux/issues
